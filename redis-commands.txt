@@ -1,0 +1,13 @@
+*********************************** Redis Commands ***************************
+
+1.brew install redis    // install redis
+
+2.redis-server           // check redis install or not
+
+3.brew services start redis   // start redis
+
+4.brew services info redis   // redis running information like port etc
+
+5.brew services stop redis // stop redis
+
+6.redis-cli        //   start redis cli and use redis on terminal
