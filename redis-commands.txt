@@ -11,3 +11,4 @@
 5.brew services stop redis // stop redis
 
 6.redis-cli        //   start redis cli and use redis on terminal
+
